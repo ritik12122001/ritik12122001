@@ -1,88 +1,173 @@
-<h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Ritik <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-<div align=center>
-<img src="https://readme-typing-svg.herokuapp.com?color=%FFD017&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Android+Developer;Open-Source+Enthusiast" alt="Headline" />
-</div>
-<p align="right">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-<div align=center>
-  
-[![Static Badge](https://img.shields.io/badge/Portfolio-darkred?style=plastic&logo=alienware&logoColor=white)]() &thinsp;
-[![Static Badge](https://img.shields.io/badge/Resume-darkgreen?style=plastic&logo=googledocs&logoColor=white)]()
-</br>
+<div align="center">
 
+[![Capsule Render](https://capsule-render.vercel.app/api?type=venom&height=280&text=Ritik%20Kumar&fontSize=80&color=0:0f0c29,50:302b63,100:24243e&fontColor=FFD700&animation=twinkling&fontAlignY=65&desc=Crafting%20digital%20experiences%20from%20India%20🇮🇳&descAlignY=82&descSize=18&descColor=c0b8f0)](https://github.com/ritik12122001)
 
 </div>
 
+<br/>
 
-<h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"> About Me </h3>
+<div align="center">
 
-- 👋🏻 I'm a self-taught passionate frontend developer from India 🇮🇳 
-- 🔭 I’m currently working on **Frontend Dev. & DSA** 
-- 🌱 I’m currently learning **Android developement & cloud computing** 
-- 📫 How to reach me **rk7703463@gmail.com**
-
-<h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials</h3>
-<p align="left">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)]()
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white)]()
-</p>
-
-<h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Tools</h3> 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=⚡+Frontend+Developer+%7C+Android+Dev;🔥+Open+Source+Enthusiast;💡+DSA+%26+Problem+Solver;🚀+Building+things+that+matter)
 
 </div>
 
-<p align="right">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik12122001&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/>
-![](https://github-readme-stats.vercel.app/api?username=ritik12122001&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ritik12122001&theme=dark&hide_border=true) 
-[![LeetCode Stats]()](https://leetcode.com)</br>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a1a2e?style=for-the-badge&logoColor=FFD700)](https://github.com/ritik12122001)&ensp;
+[![Resume](https://img.shields.io/badge/📄_Resume-0f3460?style=for-the-badge&logoColor=white)](https://github.com/ritik12122001)&ensp;
+[![Email](https://img.shields.io/badge/📬_rk7703463@gmail.com-16213e?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:rk7703463@gmail.com)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
-<p align="right">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=siddheshkr&label=Profile%20views&color=0e75b6&style=plastic" alt="ritik12122001" /> </p>
-<p align="center"">
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br/>
 
-<h3 align="center"> Show some ❤️ by starring ⭐ some of the repositories! </h3>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
+
+## 🧑‍💻 &nbsp;Who Am I?
+
+```javascript
+const ritik = {
+  name      : "Ritik Kumar",
+  location  : "India 🇮🇳",
+  role      : "Frontend Dev & CS Student",
+  building  : ["Frontend Dev", "DSA"],
+  learning  : ["Android", "Cloud Computing"],
+  passions  : ["Open Source", "Clean Code",
+               "Problem Solving"],
+  motto     : "Ship it. Learn it. Repeat.",
+  contact   : "rk7703463@gmail.com"
+};
+```
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" style="border-radius:16px"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🌐 &nbsp;Find Me On
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)&ensp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)&ensp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)&ensp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)&ensp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## ⚡ &nbsp;Tech Arsenal
+
+<div align="center">
+
+#### 🧱 Languages
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=py)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+
+#### 🎨 Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![React](https://skillicons.dev/icons?i=react)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+
+#### 🔧 Backend & Tools
+![Express](https://skillicons.dev/icons?i=express)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 📊 &nbsp;GitHub Chronicles
+
+<div align="center">
+
+<table border="0" align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=ritik12122001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=c0b8f0&text_color=c9d1d9&border_radius=12" alt="GitHub Stats"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik12122001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&border_radius=12" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik12122001&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border_radius=12" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritik12122001&bg_color=0d1117&color=c0b8f0&line=FFD700&point=FFD700&area=true&area_color=302b63&hide_border=true&border_radius=12)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 💬 &nbsp;Dev Wisdom
+
+<div align="center">
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ritik12122001&label=👁️%20Profile%20Views&color=302b63&style=for-the-badge)](https://github.com/ritik12122001)
+
+<br/>
+
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer&fontColor=FFD700)](https://github.com/ritik12122001)
+
+**⭐ Enjoyed my work? Star some repos — it keeps me going! ⭐**
+
+</div>
