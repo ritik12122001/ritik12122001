@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE;Anari+Aaya;Android+Dev+%7C+AI%2FML+%7C+Cloud;B.Tech+CSE+2025;GDG+Associate+Lead" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE;Ritk;Android+Dev+%7C+AI%2FML+%7C+Cloud;B.Tech+CSE+2025;GDG+Associate+Lead" alt="Terminal Typing" />
 
 ### <strong> Ritik </strong>
 [cite_start]**B.Tech CSE in 2025 [cite: 68] &nbsp;·&nbsp; [cite_start]Mobile App Development [cite: 25] &nbsp;·&nbsp; [cite_start]AI & Machine Learning [cite: 26]**
