@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE;Anari+Aaya;Android+Dev+%7C+AI%2FML+%7C+Cloud;B.Tech+CSE+2025;GDG+Associate+Lead" alt="Terminal Typing" />
 
-### <strong>Anari Aaya</strong>
+### <strong> Ritik </strong>
 [cite_start]**B.Tech CSE in 2025 [cite: 68] &nbsp;·&nbsp; [cite_start]Mobile App Development [cite: 25] &nbsp;·&nbsp; [cite_start]AI & Machine Learning [cite: 26]**
 
 [cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-04080f?style=for-the-badge&logo=linkedin&logoColor=00d4aa&borderColor=f5a623)](https://www.linkedin.com/in/u-r-ri8/) [cite: 4]
