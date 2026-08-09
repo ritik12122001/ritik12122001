@@ -1,63 +1,67 @@
-# 👋 Hey, I'm Ritik
+<!-- ======================= HEADER ======================= -->
 
-### 📊 Data Analyst | 💻 Developer | ☁️ Tech Enthusiast
+<div align="center">
 
-I turn **data into insights** and **ideas into products**.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,100:764ba2&text=Ritik%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=20"/>
 
-Currently working as a **Data Analyst**, working with large-scale datasets, dashboards,
-reporting, and data operations. I also have a software development background with
-hands-on experience in **Kotlin, Jetpack Compose, Firebase, and Android development**.
+</div>
 
----
+<!-- ======================= TYPING ======================= -->
 
-## 🚀 About Me
+<div align="center">
 
-- 📊 Data Analyst with **1.5+ years of experience**
-- 🏫 Working with data supporting **2,200+ schools & 400K+ students**
-- 📈 Building dashboards & reports using **SQL, Excel & Power BI**
-- 💻 Former **Kotlin Developer**
-- 📱 Experienced with **Android, Jetpack Compose & Firebase**
-- ☁️ Exploring **Cloud, Data Engineering & AI**
-- 🧠 Interested in solving real-world problems through technology
-- 🎓 B.Tech in Computer Science — 2025
-- 🌐 Languages: English, Hindi & Maithili
+<a href="https://github.com/YOUR_USERNAME">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Data+Analyst+%F0%9F%93%8A;Kotlin+Developer+%F0%9F%92%BB;Power+BI+%7C+SQL+%7C+Python;Android+%7C+Firebase+%7C+Jetpack+Compose;Turning+Data+into+Insights+%F0%9F%9A%80;Building+Ideas+into+Products+%F0%9F%94%A5"/>
 
-## 🛠️ Tech Stack
+</a>
 
-### 📊 Data & Analytics
+<br>
 
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=667eea&style=for-the-badge"/>
 
-### 💻 Development
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### ☁️ Cloud & Tools
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 💼 What I Do
+<!-- ======================= ABOUT ======================= -->
 
-```text
-📊 Data Analysis
-      ↓
-🧹 Data Cleaning & Transformation
-      ↓
-🔍 Finding Patterns & Insights
-      ↓
-📈 Dashboards & Reporting
-      ↓
-💡 Data-Driven Decisions
+<h2 align="center">⚡ About Me</h2>
+
+<div align="center">
+
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```yaml
+name: Ritik Kumar
+
+role: Data Analyst
+
+background:
+  - Data Analytics
+  - Software Development
+  - Android Development
+
+currently_working_with:
+  - SQL
+  - Excel
+  - Power BI
+  - Python
+  - Large Scale Data
+
+development:
+  - Kotlin
+  - Jetpack Compose
+  - Firebase
+  - Android
+
+interests:
+  - Data Analytics
+  - AI / ML
+  - Cloud
+  - Automation
+  - Software Development
+
+fun:
+  - Chess ♟️
+  - Badminton 🏸
